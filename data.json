@@ -1,6 +1,8 @@
 [
   { "id": "1", "title": "first video" },
-  { "id": "2", "title": "second video" },
-  { "id": "3", "title": "this is a test video" },
-  { "id": "4", "title": "this is another test video" }
+  {
+    "id": "2",
+    "title": "a test with upload",
+    "photo": "public/uploads/videos-2-1606022586101.jpeg"
+  }
 ]
